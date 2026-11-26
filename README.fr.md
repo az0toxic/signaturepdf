@@ -54,6 +54,12 @@ Récupération des sources :
 git clone https://github.com/24eme/signaturepdf.git
 ```
 
+Puis aller dans  :
+
+```
+cd signaturepdf
+```
+
 Pour le lancer :
 
 ```
